@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 💻 A soon-to-graduate computer engineer
 - 📊 I am currently interested in _IA technologies_ and the _data science field_
 - 😄 Pronouns: She/Her
+- ⚡ Fun fact: Officially a GenZ but more likely a Millennial
